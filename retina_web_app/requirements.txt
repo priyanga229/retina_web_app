@@ -1,6 +1,0 @@
-streamlit
-tensorflow
-gdown
-numpy
-opencv-python
-Pillow
