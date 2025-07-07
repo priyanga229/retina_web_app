@@ -1,6 +1,6 @@
 streamlit
-numpy
-pandas
-opencv-python
 tensorflow
+numpy
+opencv-python
 Pillow
+
